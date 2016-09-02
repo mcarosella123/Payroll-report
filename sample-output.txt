@@ -1,0 +1,70 @@
+Employee     Hours    Pay    
+--------     -----    --------
+Lowe         41.00    $ 616.27
+Lowery       41.00    $ 530.78
+Collier      55.00    $ 675.00
+Davis        61.00    $1125.41
+Spence       66.00    $1398.30
+Hamilton     37.00    $ 411.44
+James        25.00    $ 449.25
+Mcgee        58.00    $ 731.64
+Dyer         36.00    $ 456.12
+Glover        9.00    $  85.86
+Sims         24.00    $ 231.36
+Riggs        50.00    $ 684.75
+Acosta       65.00    $1195.05
+Rocha        23.00    $ 328.67
+Baker        42.00    $ 565.45
+Casey        20.00    $ 193.60
+Fitzpatrick  40.00    $ 633.20
+Terry        34.00    $ 583.44
+Gray         27.00    $ 446.85
+Duarte       12.00    $ 153.96
+Shannon      40.00    $ 412.00
+Garza        51.00    $ 729.98
+Heath        60.00    $ 742.00
+Berry        61.00    $ 805.80
+Brock        10.00    $ 163.00
+Levine       25.00    $ 334.25
+Parker       53.00    $1084.68
+Zuniga       61.00    $1101.82
+Dunlap       24.00    $ 329.52
+Patel         9.00    $ 100.80
+Rhodes       45.00    $ 521.08
+Snow          8.00    $ 117.04
+Mahoney      20.00    $ 333.20
+Houston      34.00    $ 567.80
+Bryant       50.00    $ 541.75
+Chambers     57.00    $ 744.73
+Hampton      22.00    $ 340.34
+Sexton       59.00    $1114.49
+Morris       12.00    $ 208.68
+Ibarra       27.00    $ 352.35
+Watson       31.00    $ 433.07
+Mcknight     23.00    $ 203.32
+Murphy       39.00    $ 587.73
+Nicholson    10.00    $ 168.10
+Shepard      14.00    $ 147.28
+Price        35.00    $ 648.90
+Griffith     66.00    $1439.38
+Lucas        39.00    $ 546.00
+Pope         49.00    $ 742.04
+Holden       14.00    $ 130.48
+Stone        20.00    $ 261.80
+Pena         40.00    $ 640.00
+Copeland     44.00    $ 490.82
+Galvan       49.00    $ 813.20
+Franco       50.00    $ 557.15
+Barber       11.00    $ 128.26
+Hudson       46.00    $ 868.28
+Miles        45.00    $ 875.90
+Lane         49.00    $ 938.39
+Browning     37.00    $ 344.84
+Durham       33.00    $ 322.08
+Sandoval     56.00    $ 924.16
+Cardenas     21.00    $ 304.71
+Diaz         48.00    $ 585.00
+Mcdowell     32.00    $ 371.84
+
+Highest pay awarded = $1439.38 
+Average hrs worked  = 36.85   
