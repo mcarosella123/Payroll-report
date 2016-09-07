@@ -7,9 +7,9 @@
 """Program to calculate employee pay and display it
 in tabular format.
 """
+file_name = input("Name of file: ")
+read_file = open(file_name,"r")
+for each_line in read_file:
+    print(each_line)
+read_file.close()
 
-# Complete your Python program below
-# Be certain to follow the PEP/8 style conventions
-# where they make sense.
-
-# Document each phase with an appropriate comment.
