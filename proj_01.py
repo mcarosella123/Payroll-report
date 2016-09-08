@@ -7,9 +7,9 @@
 """Program to calculate employee pay and display it
 in tabular format.
 """
-file_name = input("Name of file: ")
+file_name = input("Name of file: ")	# Prompt user for file name
 read_file = open(file_name,"r")
-for each_line in read_file:
+for each_line in read_file:		# Read and print each line
     print(each_line)
 read_file.close()
 
