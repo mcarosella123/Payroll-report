@@ -1,0 +1,7 @@
+My comments on branch "pretty":
+
+(1) code does not really follow our Pep/8 style conventions, and
+tends to be jumbled together
+
+(2) output is not correct--employes who did NOT work more than
+40 hours are not included in the output!
