@@ -1,0 +1,7 @@
+These are my comments on branch "master".
+
+Looks good overall, but two questions:
+
+(1) why all the extra blank lines in your output? Can you clean it?
+(2) what happens if the filename I provide doesn't exist?
+Consider a try...except block
