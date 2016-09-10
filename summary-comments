@@ -1,0 +1,8 @@
+My comments on branch 'summary':
+
+Again, has the error of employees not being printed if they
+didn't work more than 40 hours.
+
+Style considerations still in play.
+
+Summary output lines (2 at end) are correct.
